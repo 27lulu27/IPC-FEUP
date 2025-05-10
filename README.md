@@ -5,7 +5,7 @@ Reports and Presentations for the Human Computer Interaction curricular unit.
 
 - Date: 3rd Year, 1st Semester
 - Course: Interação Pessoa Computador | Human Computer Interaction
-- Course Link: https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541886
+- Course Link: https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541887
 - Description: [Project Description - User Interface (UI) for a mobile/web app](Project-description.pdf)
 
 ## Authors
